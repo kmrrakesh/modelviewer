@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+ body {
+  width: 100vw;
+  height: 100vh;
+}
+
 body {
   margin: 1em;
   padding: 0;
